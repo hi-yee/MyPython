@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="484f44eb-50ad-4982-904d-472ee825546b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbWZsRj5HO624UymAFYaTk7WGR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hi_man" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\untitled1\hi_man" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.py_25 集合 创建访问集合">
+    <configuration name="py_21 lambda表达式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hi_man" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hi_man/py_21 lambda表达式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py_22 递归 汉诺斯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hi_man" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hi_man/py_22 递归 汉诺斯.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py_23 递归 写一个求阶的函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hi_man" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hi_man/py_23 递归 写一个求阶的函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py_24 字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hi_man" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hi_man/py_24 字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py_25 集合 创建访问集合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hi_man" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\PycharmProjects\untitled1\hi_man\py_25 集合 创建访问集合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.py_25 集合 创建访问集合" />
+        <item itemvalue="Python.py_24 字典" />
+        <item itemvalue="Python.py_23 递归 写一个求阶的函数" />
+        <item itemvalue="Python.py_22 递归 汉诺斯" />
+        <item itemvalue="Python.py_21 lambda表达式" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="484f44eb-50ad-4982-904d-472ee825546b" name="Default Changelist" comment="" />
+      <created>1583211833420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583211833420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="176" key="#Notifications" timestamp="1586857293628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="445" y="176" key="#Notifications/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586857293628" />
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583221521283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1583221521283" />
+    <state x="711" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586503169200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="328" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586503169200" />
+    <state x="716" y="410" width="274" height="281" key="Github.ShareDialog" timestamp="1586873067242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="410" width="274" height="281" key="Github.ShareDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586873067242" />
+    <state width="1340" height="123" key="GridCell.Tab.0.bottom" timestamp="1586856076219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="123" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586856076219" />
+    <state width="1340" height="123" key="GridCell.Tab.0.center" timestamp="1586856076219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="123" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586856076219" />
+    <state width="1340" height="123" key="GridCell.Tab.0.left" timestamp="1586856076218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="123" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586856076218" />
+    <state width="1340" height="123" key="GridCell.Tab.0.right" timestamp="1586856076219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="123" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586856076219" />
+    <state width="1362" height="328" key="GridCell.Tab.1.bottom" timestamp="1584805193537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="328" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1584805193537" />
+    <state width="1362" height="328" key="GridCell.Tab.1.center" timestamp="1584805193536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="328" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1584805193536" />
+    <state width="1362" height="328" key="GridCell.Tab.1.left" timestamp="1584805193536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="328" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1584805193536" />
+    <state width="1362" height="328" key="GridCell.Tab.1.right" timestamp="1584805193536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="328" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1584805193536" />
+    <state x="802" y="425" key="Performance.Activity.Monitor" timestamp="1585037337091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="425" key="Performance.Activity.Monitor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585037337091" />
+    <state x="551" y="264" key="SettingsEditor" timestamp="1586873041961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="264" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586873041961" />
+    <state x="804" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1585110449117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="804" y="372" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1585110449117" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1586687505465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586687505465" />
+  </component>
+</project>
