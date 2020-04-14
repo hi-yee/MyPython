@@ -28,3 +28,7 @@ for each in temp:
         list1.append(each)
 
 print(list1)
+
+list2 = [1,2,31,11,11,2,2,24]
+list2 = list2(set(list2))
+print(list2)
